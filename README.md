@@ -18,6 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: 
+#RegisterNumber:
+n1,n2=float (input()),float(input())
+temp = n2
+n2=n1
+n1 = temp
+print("Swapped values are:",n1,n2)
+```
 
 
 
