@@ -27,10 +27,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 
+### Program to swap two values.
+
 ## PROGRAM:
 ```
-#Program to swap two values.
-
 Developed By: Sivaramakrishnan B
 Register No: 212222110044
 
