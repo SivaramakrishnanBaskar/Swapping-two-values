@@ -41,6 +41,8 @@ n2=n1
 n1 = temp
 print("Swapped values are:",n1,n2)
 ```
+## OUTPUT: 
+![image](https://github.com/SivaramakrishnanBaskar/Swapping-two-values/assets/119476322/07f11b2c-b93a-4d65-915d-b3a519be23db)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
