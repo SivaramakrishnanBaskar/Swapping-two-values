@@ -42,6 +42,10 @@ x = y
 y = temp
 print("Swapped values are:",x,y)
 ```
+
+## Program Statement: 
+![image](https://github.com/SivaramakrishnanBaskar/Swapping-two-values/assets/119476322/ce0fcc03-d3c6-495e-9ffc-c0039243a917)
+
 ## OUTPUT: 
 ![image](https://github.com/SivaramakrishnanBaskar/Swapping-two-values/assets/119476322/07f11b2c-b93a-4d65-915d-b3a519be23db)
 
